@@ -1,7 +1,7 @@
 ### olá!👋eu sou rafael benitez duarte
+ 
 
-
-- 🔭 estudando front-end
+- 🔭 estudando front-end e c#
 - 🌱 faço analise e desenvolvimento de sistemas
 - ⚡ futuramente um full stack 
    <div>
